@@ -1,0 +1,29 @@
+= Myths Justifying The Need For The State
+
+If the above commentary about the state and the free market is true, why does
+the state exist? This is a complex question, the answer to which has several
+aspects to it.
+
+As has been discussed earlier in this paper, no individual ‒ not even the most
+ardent statist ‒ signs a contract explicitly consenting to the state’s
+existence or actions. Instead, the state exists through the implicit
+acquiescence of the non-libertarian population. I will discuss below how
+different forms of this acquiescence arise and then go on to review some of the
+key fallacies that underlie this acquiescence.  footnote:[There is a very good
+book by Michael Huemer, _The Problem With Political Authority_, which goes into
+a lot of interesting psychological detail about why such acquiescence persists
+when it is both illogical and immoral to support the state.]
+
+
+include::s-acquiescence-to-the-state.adoc[]
+
+include::myth-the-state-is-an-improvement-on-the-free-market.adoc[]
+
+include::myth-we-need-the-state-to-provide-public-goods.adoc[]
+
+include::myth-we-need-the-state-to-deal-with-negative-externalities.adoc[]
+
+include::myth-we-need-the-state-to-deal-with-anti-competitive-behavior.adoc[]
+
+include::myth-the-hobbesian-fear.adoc[]
+

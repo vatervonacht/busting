@@ -1,0 +1,15 @@
+
+= Myths About the Nature of the State
+
+include::myth-the-state-is-a-moral-actor.adoc[]
+
+include::myth-the-state-acts-by-consent.adoc[]
+
+include::myth-the-state-acts-for-the-common-good.adoc[]
+
+include::myth-the-state-and-its-personnel-deserve-our-support.adoc[]
+
+include::myth-democracy-is-good-better-best.adoc[]
+
+include::myth-the-state-dispenses-criminal-justice.adoc[]
+

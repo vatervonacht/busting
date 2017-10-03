@@ -1,0 +1,685 @@
+== Myth #11: We Need The State To Deal With Negative Externalities
+
+=== The Theory
+
+There is another justification for the state, which is the inverse of the
+“public goods” argument. This is referred to as “negative externalities.” The
+argument runs that the production of some goods involves costs to society which
+the entrepreneur does not incur, and thus he does not factor these costs into
+his production function (these costs are said to be “externalized” in that they
+are shifted to society, instead of being “internalized” into the good).
+Accordingly, the consumers of these goods, in paying a price that doesn’t
+account for these costs, are getting a “free ride” on the backs of those who do
+suffer these costs but don’t get the benefit of the goods. Or, looked at
+another way, these goods are over-produced.
+
+The state is therefore required to intervene to prohibit or reduce these
+externalized costs or shift them back onto the entrepreneur.
+footnote:[Negative externalities are the inverse of “public goods” because, in
+the case of the latter, statists believe insufficient goods will be produced
+because entrepreneurs can’t internalize the social benefits; in the case of
+negative externalities, statists believe too much will be produced because
+entrepreneurs don’t have to internalize the social costs.]
+
+
+=== Pollution
+
+The classic example given in this area is pollution. For instance, if an
+entrepreneur’s factory emits chemicals into a river and this causes damage to
+people downstream who use the river’s water, but the entrepreneur does not have
+to pay for this damage, then when he prices his goods for his consumers he will
+not factor in this pollution cost and thus his consumers will pay a lower price
+than if the entrepreneur were to factor in this cost. Those who suffer from the
+pollution damage therefore bear some of the production costs even though they
+didn’t buy the entrepreneur’s goods. This is supposedly an argument for the
+state to step in and regulate the entrepreneur, either to prevent such
+pollution or to make the entrepreneur pay for the associated costs.
+
+The main argument against this situation being a supposed justification for the
+state is that the reason the entrepreneur “gets away” with not paying the costs
+of his pollution is due to a weak system of private property rights. This is
+generally due to state interference with property ownership and the enforcement
+system. Too much property such as air, water sources, roads, parks, etc. is
+regarded as owned by the state instead of by private citizens, which means
+there is less efficient stewardship ‒ no one takes care of property as well as
+someone who has their own capital invested ‒ and no obvious defendants to sue
+when things go wrong.
+
+In the above example, if instead the river were privately owned then the
+downstream users of the river who bought their water from the river owner would
+take action against the river owner for supplying them with polluted water, and
+the river owner would have a strong interest in taking action against the
+entrepreneur for polluting his water. The action by the river owner against the
+entrepreneur would be for what is called “nuisance,” a well-established cause
+of action developed in the common law hundreds of years ago, whereas the
+downstream users who buy their water from the river owner would likely have a
+claim for breach of contract against the river owner. Faced with these actual
+or potential liabilities, the entrepreneur and the river owner (either on their
+own initiative or as required by their liability insurers) would quickly take
+effective action to reduce toxic emissions because this would be a cheaper way
+of running their businesses compared with being subject to continual liability
+(I will discuss the libertarian take on this issue in greater detail later in
+this paper).
+
+Statists argue, instead, that the state should (i) own the river, (ii) direct
+the entrepreneur how to organize his operations, and (iii) be able to fine (and
+ultimately imprison) the entrepreneur if he doesn’t comply with the state’s
+directives.
+
+However, this is a very ineffective and an immoral system for regulating the
+relevant activities. As in many other parts of the economy, once the state
+moves in it crowds out more effective private sector solutions. This regime
+forcibly substitutes the inefficient state for those who have a direct interest
+in the outcome, and weakens the regulation against wrongdoers. I will elaborate
+on the deficiencies of a state regulatory regime below.
+
+*First*, recall that the alleged justification for the state to intervene here
+is because the statist believes the entrepreneur can externalize his pollution
+costs to society. Yet what happens when the state intervenes to try to
+internalize the pollution costs to the entrepreneur is that the state
+externalizes the enforcement costs to society!  Every state-instituted
+regulatory regime involves significant costs in setting up and supporting large
+state bureaucracies to write, pass and enforce regulations against entire
+industries, as opposed to against just wrongdoers within those industries. All
+taxpayers foot the bills for these enforcement systems, not just those who
+might benefit directly. In contrast, in a purely private sector system based on
+private lawsuits the enforcement costs – as well as the liability for pollution
+damage – would mostly if not wholly be internalized just to the wrongdoers.
+footnote:[Some private systems may require the wrongdoer to pay all of the
+legal costs of the victim while others may settle on different standards.]
+
+*Second*, the state will produce standardized regulations for an industry that
+necessarily can’t take into account each entrepreneur’s unique production
+methods and situation. This “one-size-fits-all” approach can only mean overkill
+for some entrepreneurs and too light regulation for others when compared with a
+system of individual private lawsuits (or the mere threat thereof) by those who
+suffer loss. Such lawsuits would impose a customized regime of damages to be
+paid by each individual entrepreneur who is guilty of wrongdoing and thus
+create incentives for each individual entrepreneur to fine tune his own
+situation (mainly to avoid such lawsuits in the first place).
+
+When centralized regulations are overkill this means an entrepreneur’s costs
+will increase by more than is just, thus either artificially reducing his
+supply of goods or leading to higher prices for his consumers. When the
+regulations are too light or are out of date this will not prevent the damage
+from occurring, yet the compliant entrepreneur will have less incentive to
+reduce his harmful activities since he will have a valid defense to any
+lawsuit, namely, that he was fully compliant with the state’s regulations.
+footnote:[For instance, it took New York City until 2008 to comprehensively
+update its 1968 building code. The periodic revisions over 40 years had led to
+conflicting and confusing requirements and did not keep pace with modern
+construction materials and practices. Yet highly competent architects and
+builders couldn’t stray from these regulations lest they risk fines and
+prosecution. Similarly, while British Petroleum was attacked for its lack of
+readiness to handle the 2010 Gulf of Mexico deep- water oil spill, the company
+was required by federal regulators to base it preparations on federal rules
+last updated in 2004 which focused mostly on oil released onto the surface as
+opposed to in deep water. As one further set of examples, in a series of
+Supreme Court cases on the federal Clean Water Act of 1972 the court held that
+federal environmental standards must prevail over conflicting state-level
+environmental standards in setting the benchmark for activities impacting the
+cleanliness of bodies of water, even though the federal standards were lower
+than the state-level standards!]
+
+Even assuming the best of intentions in those writing the regulations (which is
+a dubious assumption, as to which see below), given human imperfection there is
+a huge difference between having regulations imposed centrally compared with
+allowing them to develop from the ground up ( via private lawsuits). If those
+at the state make a mistake issuing regulations it impacts millions of people
+at once; if a private sector entity makes a mistake it only impacts those who
+interact with that entity. As noted earlier in this paper, we should all want
+the issues with human imperfection (whether incompetence or corruption)
+decentralized, not centralized.
+
+Statists tend to scream out for centralized state regulation in particular
+after the occurrence of a low probability but high profile accident. The mere
+fact that this event occurred is cited as evidence of the need for regulating
+the activity which caused the harm, and regulations may then be written to try
+to prevent this event happening again.
+
+However, what this inevitably leads to is society incurring all of the problems
+and costs associated with a state regulation just to mitigate a small risk; it
+takes no account of the benefits that accrue from the activity that
+accidentally caused the harm, which activity will be curtailed by the new
+regulation. It is as if the statist believes it’s possible or desirable to
+eliminate all risks in life no matter how small, regardless of the cost. Yet
+every action every person takes is fraught with risk: driving a car, crossing
+the street, flying on an airplane, etc. Each person has a different tolerance
+for assuming risk, as each person will first weigh up the perceived benefits
+against the perceived risk of loss. How can the state assume that it can create
+a centralized regulation which satisfies every person’s benefit/risk trade-off
+calculus? Obviously this is an impossible task, so why take it on?
+
+When regulations are written in response to an accident, this is usually due to
+some single issue special interest group lobbying the state hard for the new
+regulation. In essence, then, what has actually happened is that this group is
+effectively renting the state’s coercive power to impose the group’s
+benefit/risk assessment on everyone else.
+
+*Third*, there is an even broader point to make about the trade-offs that are
+ignored when centralized regulations are passed. As noted above, every person
+has his own sense of how much risk he is prepared to assume; in the case of
+pollution this means weighing up the risk to his personal health and/or
+property compared with the benefits he expects to gain from the production
+activity leading to the pollution. Production activity, while creating
+pollution, provides goods which satisfy human wants as well as employment
+opportunities. Probably the only thing we know for certain is that very few
+people, if any, would argue that zero pollution ought to be the standard by
+which we live. This would cause all production activity to grind to a halt,
+which would lead to significant human poverty and misery.
+
+However, what level of pollution above zero we should accept as the trade-off
+for production activity is where each person’s standard starts to diverge.
+
+For instance, those people who are not well-off might prefer more production
+activity and less pollution regulation (i.e., potentially more pollution),
+since their highest priorities could be goods that meet their basic needs and
+employment income to support their families. As people become wealthier it
+makes sense that they start to prefer less production activity in return for a
+cleaner environment; in this sense, a cleaner environment is a “luxury good.”
+We have seen this in operation all throughout history and still see it today,
+whereby in those countries that are emerging from poverty (such as China and
+India) the populations are more concerned about production activity than the
+environment, but in the wealthier countries there are those who prefer the
+inverse.
+
+Yet this is not just a principle that applies across national borders. Within
+any society, even one as wealthy as the U.S., there are likely those whose
+first priorities are satisfaction of consumption needs and employment and thus
+they may be willing to live with more pollution. This is what statists overlook
+or perhaps intentionally ignore.  Those who are clamoring for centralized
+environmental regulation to impose their trade-offs on everyone else are often
+those who have attained sufficient wealth such that they can now afford to
+“purchase” a cleaner environment. They never consider the costs they are
+imposing on others who don’t share their views. The cleaner environment is the
+visible outcome, but the unseen costs of less production activity are the lower
+living standards for those who might not have made this choice, manifested in
+having access to fewer or more expensive consumption goods and facing fewer
+employment opportunities.  footnote:[To provide an analogy, consider the
+serious side effects that come from certain therapies used to combat the most
+severe diseases. Those who are healthy wouldn’t want to suffer those side
+effects because they are in a different position from those who are afflicted
+with these diseases. The latter group, however, might be very willing to suffer
+these side effects if they are the price of mitigating the worse effects from
+the diseases. Those who would argue for centralized environmental regulation to
+reduce pollution to the lowest levels are effectively arguing that these drugs
+should be outlawed because of their awful side effects.]
+
+For instance, statists like to point to the environmental regulations that
+preceded the improvement in the air quality in Los Angeles. This supposedly
+positive outcome is regarded as proof that the state “can get the job done”
+where the market “failed.” Leaving aside the issue of whether the market failed
+and why (since, as noted above, this is generally due to a weak system of
+property rights established by the state in the first place), the conclusion
+that the solution was positive for everyone concerned is dubious.
+
+For the sake of illustration, let’s assume there were local restrictions placed
+on production and driving activities in Los Angeles and costly mandatory
+“clean” vehicle production specifications were introduced.  footnote:[I’m not
+saying this is precisely what happened in Los Angeles; I’m just using Los
+Angeles as an excuse to make a point.] Now consider the interests of those at
+the lower end of the economic spectrum who (a) lost their actual jobs when
+their factory had to shut down, move or cut back due to higher regulatory
+costs, (b) were deprived of a potential job by the production that was now too
+costly to establish or expand, (c) had to pay more or endure other difficulties
+when buying a vehicle and/or driving to their jobs, and (d) had to pay higher
+costs for locally produced goods? What about those who similarly suffered
+because productive resources were drawn out of the economy to set up the state
+agencies to write, implement and enforce these regulations, when these
+resources might have otherwise been used by the private sector to employ these
+people or produce more and cheaper goods for their consumption?
+
+Since a single trade-off was coercively imposed on everyone, we cannot say that
+the centralized solution was the most efficient way to organize scarce
+resources to maximize the satisfaction of millions of individuals given their
+divergent trade-offs.
+
+In addition, such imposition by force was, of course, immoral.  footnote:[A
+free market would have provided several solutions. Those arguing for these
+centralized regulations who suffered loss from the poor air quality could have
+sued the relevant factory, car or road owners for an injunction or damages, or
+made claims on their health and/or property insurance policies and let their
+insurers sue instead. Or, if they weren’t able to prove liability to an
+acceptable standard, then they (or their insurers) could have paid for the
+pollution controls out of their own pockets, for instance, by purchasing and
+shutting down the offending factories or paying for their modification, and by
+paying to fit all cars with pollution-control equipment. In this way we could
+measure how much these people really valued such pollution control.  Instead,
+they simply took the easier but immoral and less economically efficient route
+of renting the state’s coercive powers to impose their preferences on others.]
+
+*Fourth*, what invariably happens when the state is involved in regulating
+industries is that the individuals at the regulating agency start to develop a
+career dependence on the industry’s survival and a bias in favor of the
+regulated industry (this is known as “regulatory capture”). Leaving aside
+actual instances of trading favors between the regulated and the regulatory
+personnel, there are at least three natural job-related reasons for regulatory
+capture.
+
+To do his job effectively the regulator needs detailed information on the
+regulated firms, and the only way in which he can get that data is from the
+regulated firms themselves. Thus, as the saying goes, he has to “be careful not
+to bite too hard the hands that feed him.”
+
+In addition, it is highly likely that the public won’t be paying much attention
+to the nuances of how regulations get written but the regulated producers, for
+whom each regulation imposes new costs, will be all over the 
+regulation-writing process and, as another saying goes, “The squeaky wheel gets the oil.”
+When the regulator has to decide between two choices on how a regulation is to
+be written, he cannot help but be influenced by the lobbying from the regulated
+producers for which there is little to no counter-balance.  footnote:[As noted
+earlier, often times the largest producers in an industry seek to have the
+regulations written to fit with what they are already doing or with what they
+can afford, with the objective of making it very expensive for new competitors
+to enter the industry. This restriction of competition is ultimately to the
+detriment of consumers.]
+
+Further, a regulator who puts his industry out of business also loses the
+rationale for his job. Thus the regulator will be careful to impose regulations
+sufficient to look like he is doing his job but not so severe as to cause real
+problems for his industry.  footnote:[One of the clearest examples of this is
+the states’ lawsuit settlements with the major tobacco companies in the late
+1990s.  The states struck an agreement with these tobacco companies to settle
+the lawsuits against them and to exempt these companies from liability to
+private citizens, in return for receiving hundreds of billions of dollars from
+these companies over time and imposing certain marketing restrictions on their
+activities. Despite the original intention that these settlement funds be
+dedicated to discouraging children from smoking and reimbursing Medicaid for
+tobacco-related illnesses, only a very small percentage is used for these
+purposes, with the bulk going to finance general government spending (as do
+excise taxes on cigarettes). Thus the states now are fully invested in the
+continued survival and growth of tobacco companies. Some states even sold bonds
+backed by tobacco settlement revenues and so became dependent on tobacco
+companies to avoid default!]
+
+For all these reasons, when the state gets involved in regulation the
+incentives shift from what statists hope is prudent regulation to, instead, a
+careful career balancing act by the regulator. In the pollution example cited
+above, the real interests of those downstream who suffer loss would quickly
+become of secondary importance relative to the regulator maintaining his raison
+d’etre and standing with the industry.
+
+Contrast this to victims pursuing private lawsuits against a polluting
+producer, which would put the interests of the victims first.
+
+In fact the history of environmental regulation in the U.S. is an interesting
+case study in regulatory capture.
+
+Originally, before state-imposed regulation became the norm, the U.S. operated
+under a relatively free market in environmental regulation. The private tort
+lawsuit was the primary way in which producers were regulated; those
+individuals who suffered damage sued these producers and won.
+
+Over time industrial producers found that this regime became too onerous, so
+these producers then sought out the individual U.S. states to help stem the
+tide of these lawsuits. Producers preferred to become subject to the states’
+regulations instead of private lawsuits because they could have significant
+input into how the regulations were drafted, which they obviously saw as an
+opportunity to live under a friendlier regime.
+
+However, as time went on, it became difficult for the largest producers to
+comply with the multitude of different states’ regulations, and some states
+became stricter than others. Thus producers sought out the federal government
+and, in an odd alliance with environmental activists, supported the creation of
+the Environmental Protection Authority. Producers decided that a uniform
+regulatory regime over which they would have significant influence would be
+preferable to state-by-state regulation.
+
+Of course lost in all of this regulatory evolution are the actual interests of
+those who suffer damage from pollution but whose lawsuits are prohibited or
+stymied by the regulations promulgated through this regulatory capture process.
+
+*Fifth*, and related to the prior point, even if the regulator were not
+captured by the regulated, the individuals at the state can often act against
+the interests of those impacted by an environmental issue if one of the state’s
+key cronies has a conflicting interest.
+
+For instance, after the 2010 deep-water oil spill in the Gulf of Mexico the
+U.S. federal government received a number of offers by foreign ship operators
+to use their advanced technology and highly relevant experience to contain the
+spill. However, the U.S. rejected these offers because they involved using
+non-union labor and labor unions are very important cronies of the state.
+
+As explained earlier in this paper, unlike those in the private sector the
+state has immunity from suit by private citizens who suffer damage from its
+decisions, and also the state cannot go out of business for failure to provide
+a valuable service. Accordingly, there was little risk to the state in keeping
+cronies such as unions satisfied even though this conflicted with the state’s
+supposed environmental regulatory role; keeping the unions satisfied was a much
+more effective way for individuals at the state to advance their own interests
+than addressing the needs of the mere victims of pollution.
+footnote:[Presumably the unions were a more important crony than the
+environmental lobby, but this must have presented an interesting “crony
+conflict” dilemma for the state!]
+
+
+*Sixth*, consider under a state regulatory regime who actually benefits from
+regulatory fines. The fines are paid to the state to support the state’s
+operations, and many times it is the actual regulatory agency itself that
+benefits directly. Perversely, the fines are not paid over to the individuals
+who suffer losses caused by the regulated producers’ actions (see the example
+cited earlier relating to the tobacco company settlements).  footnote:[Note
+that many times fines are levied for actions that cause no actual losses
+anyway, such as failure to comply with paperwork or certification rules or
+other “victimless” regulatory breaches.]
+
+Contrast this to private lawsuits where those who suffer loss receive damages
+payments directly from the guilty defendants.  footnote:[Sometimes as part of a
+settlement with a producer a regulator will require the establishment of a fund
+to compensate private citizens who claim to have suffered damage. However, this
+is still sub-optimal. It substitutes the regulator’s centralized views on the
+appropriate size of the fund and who is eligible to share in this fund for each
+individual citizen’s right to seek appropriate compensation for his specific
+loss and the producer’s right to require claimants to prove causation and loss.
+Often times this leads to intense lobbying by different interest groups to
+become eligible to share in this type of fund. Not surprisingly then, these
+funds tend to be distributed politically rather than in accordance with
+justice.]
+
+The result of the state regulator being able to feed off its ability to levy
+fines is that this becomes one of its core objectives. Every organization is
+naturally interested in expanding its revenues because this enables its members
+to do more. However, this is particularly troubling when the organization is a
+state regulator since it can write rules that enable it to forcibly increase
+its revenues by conjuring up violations having nothing to do with punishing
+citizens for infringing the rights of others.
+
+One of the most egregious examples of the state feeding off its regulatory
+activities (although unrelated to pollution) is the “civil asset forfeiture”
+legislation in the U.S. This empowers the police to seize private property as
+part of the “War on Drugs” without the owner even being arrested, never mind
+convicted. Based merely on a suspicion that property might have been used in
+activities relating to illegal narcotics the police regularly seize cash,
+vehicles, houses, etc. The owner has to go to court to try to free his seized
+property and, unlike in any other area of the law, the burden is shifted to the
+owner to prove a negative, namely, that the property is not being used in
+relation to illegal narcotics (note that the state can prevail even if someone
+other than the owner has used the property for these purposes). Often this
+process is very difficult and expensive for the owner whereas the state, of
+course, can spend taxpayers’ money – including the owner’s – on court
+proceedings to contest the owner’s arguments.  footnote:[Civil asset forfeiture
+should be distinguished from criminal asset forfeiture. In the latter, once
+someone is actually convicted of a crime the state can seize the criminal’s
+assets under the statist philosophy of “Taking the profit out of crime.” Since
+the state can use criminal asset forfeiture to implement that philosophy there
+is no reason to also have civil asset forfeiture.  However, the state strongly
+prefers the civil procedure as it is much easier to use. Duh!]
+
+
+What happens to the seized property? Federal legislation and some states’
+legislation allow the police to keep all or a portion of the proceeds they
+seize or can obtain from selling the seized property. This creates a strong
+incentive to seize more property because such proceeds supplement the budget
+the police receive from taxes, and this is why such seizure has increased
+dramatically over time (what police force doesn’t want more money to spend on
+shiny new equipment?).  footnote:[It’s worth noting that in December 2015 the
+U.S. Department of Justice announced that it was suspending the federal program
+which allows local police to share in up to 80% of the proceeds from seizing
+assets under the federal government’s purview. Of course this was not a result
+of the federal government re-considering the morality of civil asset
+forfeiture; rather, due to budget cuts the Department of Justice wanted to keep
+these proceeds for itself. The new policy didn’t end civil asset forfeiture, it
+just temporarily changed which arm of the state got to keep the proceeds.
+Predictably local law enforcement groups cried foul and made the case that
+cutting off these funds would significantly impact their ability to “protect
+the public.” The irony is that it is the police’s use of civil asset forfeiture
+from which the public needs protection! In the end, after local police simply
+stopped seizing assets because they couldn’t keep the proceeds, the Department
+of Justice reversed course and reinstituted the sharing policy a mere few
+months later. At least we can all now fully appreciate what motivates local
+police.] 
+
+This regime sets up some strange incentives. For instance, if the police seize
+drugs it is hard to monetize them and thus hard to supplement the police
+budget. Yet if the police first allow drug traffickers to sell their drugs then
+the police can seize the cash proceeds, which are much easier for the police to
+benefit from. There are actually cases where it has been shown that the police
+allowed drugs to be sold before moving in to seize the proceeds. So much for
+civil asset forfeiture being a tool to combat the drug trade.
+
+In addition, given the financial incentives for the police to focus on civil
+asset forfeiture and thus the “War on Drugs,” they devote less time and fewer
+resources to dealing with actual violent crimes such as murder, theft, rape,
+etc. Working on those cases just doesn’t have the same payoff for the police
+and there is no downside to allocating their resources in this manner; if the
+rates of these violent crimes increase the police cannot get fired. In fact, if
+violent crime rates increase typically statists will then support the police
+request for an even larger taxpayer-funded budget.
+
+Note that the “War on Drugs” is clearly an immoral “war.” When A puts a drug in
+his body or sells a drug to someone who wants it he harms no other person; it
+is a victimless “crime.” footnote:[Statists will claim that drug users commit
+crimes against real victims. However, there are already laws against theft,
+murder, etc., so the drug legislation adds nothing to those. Second, there is
+drug-related crime mainly because the product has been pushed underground by
+its illegality, just as during Prohibition there was illegal activity
+associated with alcohol which disappeared once Prohibition was repealed. The
+reason Wal-Mart doesn’t go to war with Target is because they can openly sell
+their products and compete, and it is always much cheaper to avoid violence.
+Since no harm is committed by A it would be immoral to punish him by
+imprisoning him or seizing his property, as this would constitute unjustifiable
+coercion by one man against another. Yet that is exactly what happens with
+civil asset forfeiture, making it an immoral action in furtherance of a phony,
+immoral “war.”] And, perversely, the spoils of this “war” enrich the only
+aggressors, namely, the police. Precisely because there are no victims in these
+“drug crimes” there is no one else to whom the proceeds can be paid over. That
+should tell us something.
+
+=== Enforcement Issues
+
+Statists also argue that, in two respects, state-based regulation regarding
+negative externalities is a more efficient system of enforcement than private
+lawsuits to recover actual losses.
+
+The first argument statists make is that, in some cases, it may be difficult to
+show sufficient evidence that an entrepreneur accused of, say, pollution damage
+is actually guilty of causing a loss to someone, but he should nevertheless be
+held liable if he violated the state’s regulations.
+
+The retort to this is quite obvious: if the evidence of loss and causation
+cannot be satisfactorily adduced in a private lawsuit then, by definition, the
+plaintiff will not have met the required evidentiary standard and thus the
+defendant should not be found guilty! To argue in this instance that the state
+should be able to penalize the defendant as if he were “guilty” merely for
+breaching the state’s regulations, without sufficient evidence that the
+entrepreneur has caused an actual loss to someone, is to reverse the
+presumption of innocence that is core to a just system of punishment. It makes
+decisions about guilt and innocence completely arbitrary. The standard becomes
+violation of a regulation rather than causation of loss.
+
+In this respect, statists believe that the regulator will be more effective
+than private parties at collecting the required evidence because the state has
+independent agencies which specialize in this type of thing. However, this
+overlooks three points.
+
+*First* , the state’s “independent” agency will have its own interests, namely,
+survival and expansion, and thus its activities are likely to be geared towards
+whatever will support those objectives. This may mean being sympathetic with
+industry participants (regulatory capture) or hiding its own errors, safe in
+the knowledge that, unlike in the private sector, no state agency is ever
+bankrupted for incompetence. Such agencies also tend to purposefully increase
+complexity by creating many processes and procedures for industry participants
+to follow – the intricacies of which are known only to the agency’s personnel
+and the relevance of which to the perceived issues at hand may be quite tenuous
+– thereby increasing the scope of the agency’s activities and the importance of
+its role, coincidentally providing support for increased budget requests.
+
+*Second*, state agencies don’t offer their personnel the same compensation
+structure as in the private sector.  There is no personal financial or career
+risk in causing delay, complexity or increased costs for those with whom the
+personnel interact. And there is no upside reward for satisfying customers.
+Thus such agencies are likely to hire lower quality staff who are less focused
+and motivated than those in the private sector.  footnote:[State personnel
+often receive higher fixed total compensation than comparable workers in the
+private sector when one considers the combination of cash, benefits and job
+security (it’s almost impossible to get fired in the public sector). However,
+the most talented people who want to take more risk and possibly obtain larger
+upside tend to avoid the public sector because such upside doesn’t exist.]
+
+*Third*, there already are plenty of independent agencies in the private
+sector such as Consumer Reports, UL and private detective agencies, and there
+are good reasons to believe that more such agencies would arise and prosper in
+a truly free market.
+
+For instance, a producer’s liability insurer would have to pay out damages to
+victims who have a successful claim against the producer, and thus the insurer
+would have real money at stake and hence very strong alignment with potential
+victims to try to prevent any wrongful damage being caused by the producer.
+Accordingly, the insurer would have a vested interest in hiring an outside
+agency to suggest ways to make the producer’s processes environmentally safer
+and to monitor compliance.  footnote:[Quite apart from protecting its
+reputation in the market, the producer would have an additional incentive to
+comply with the insurer’s or the agency’s directives, namely, to keep its
+insurance premiums lower.]
+
+This private outside agency would have its business reputation at stake and
+thus would want to do a good job in suggesting effective environmental programs
+and monitoring the producer. If it did a poor job it would lose business from
+insurers in favor of those of its competitors that do a better job. Contrast
+this with the state agency which has no competition or financial incentives to
+motivate it to be highly effective.
+
+The second statist argument in favor of state enforcement is that often times
+it might be difficult to round up all the relevant defendants. For instance, if
+someone living next to a highway were suffering from air pollution he might
+want to sue all the drivers who have poor exhaust control, but this is
+impractical. However, this example only reinforces why the existence of the
+state is problematic. The easy way to resolve this problem would be to sue the
+owner of the road for allowing cars with poor exhaust control to drive on its
+property, but the problem is that the owner of the road is normally the state
+itself and the state cannot be sued for this type of action!
+
+If roads were fully private not only could the resident sue the road owner but,
+faced with this prospect, the road owner (either of his own volition or as
+required by his liability insurer) would likely experiment with various
+processes to prevent cars with poor exhaust control from riding on his highway.
+
+The state has no such incentive. Even where it does appear to take action to
+forestall such problems it will likely be “captured” by the motor vehicle
+manufacturers or any other interest group which is better organized than the
+residents living next to the highway.
+
+=== The State Itself Creates Massive Negative Externalities
+
+The final point to make about the alleged necessity of the state to prevent
+negative externalities arising from private sector activities is that, in
+arguing this, the statist doesn’t take into account that the operation of the
+state itself creates many substantial negative externalities. In fact, perhaps
+it is only the state that can actually create negative externalities on such a
+grand scale (in the hundreds of billions of dollars, if not trillions).
+
+Most directly, and as already noted above, if the state imposes taxes or
+regulations on private firms to try to deal with alleged negative
+externalities, those taxes or regulations may cause existing firms to relocate
+or reduce their operations, thereby creating a negative externality in terms of
+local employment. In a similar vein, potential new firms may decide not to
+establish operations as a result of state taxes or regulations, creating a
+negative externality in terms of new jobs foregone.
+
+For a more general example of the state’s impact, consider that the users of
+state services usually don’t pay their full cost directly because provision of
+these services is also funded by (i.e., externalized to) taxpayers who don’t
+use such services. This leads to under-pricing and thus over-use of state
+services. This is precisely the argument used by statists to argue against the
+free market when it comes to negative externalities and the environment, so why
+is this fact not an argument against the state when it comes to the services it
+provides?
+
+As another example, consider what happens when the state lends money to certain
+individuals or businesses as it often does through various state programs.
+These borrowers come to the state because either they wouldn’t qualify for
+loans from private sector lenders or private sector lenders would charge
+interest rates above what the state charges. Similarly, the state sometimes
+invests equity capital in certain businesses or projects in circumstances where
+the private sector wouldn’t invest or on more favorable terms than the private
+sector would offer. Think about that concept for a second: private sector
+capital providers who would be risking their own money make a negative
+investment decision, yet the individuals at the state, who are not risking
+their money but rather that of taxpayers, make the opposite, more aggressive
+decision.  footnote:[These state funding programs are usually established after
+intensive lobbying by potential recipients of the funds or other interest
+groups, which is just another instance of crony capitalism.]
+
+When the state takes a loss on these investments – either because the
+investments are not fully repaid, if repaid at all, or because the interest or
+equity charge is below the appropriate (free market) rate for the relevant
+risks – it is taxpayers who bear the loss, not those at the state. In other
+words, the individuals at the state are able to externalize the losses from
+their gambling with taxpayers’ money, and hence these programs are usually
+characterized by over-production. Yet statists claim the state is the great
+bulwark against negative externalities!
+
+For a further example, consider those who lend money to the state through
+purchasing state-issued bonds. The state takes these borrowed funds and
+“invests” them in state spending programs.
+
+In the private sector, a borrower would only borrow funds if he anticipates
+that the project or business in which he is investing the funds will yield
+sufficient proceeds at least to repay the loan and interest (but hopefully
+more).  This is because: (a) he personally has to repay the loan even if the
+project or business fails and, if it fails, he would have to dip into his other
+assets; and (b) borrowers who develop a reputation for not repaying loans will
+develop poor credit records and then find it difficult to borrow from other
+lenders in the future. The private sector lender would also undertake this type
+of use of proceeds analysis to try to ensure his loan was “safe.”
+
+Yet when the state issues bonds, neither the lender (the buyer of the bonds)
+nor the borrower (the individual at the state) really expects, nor particularly
+cares whether, the proceeds will be used in a productive manner to enable
+repayment of the loan plus interest. In fact, neither party bothers performing
+a project evaluation, and lenders charge a very low interest rate because they
+regard the loan as “riskless.” This is because both parties know that the
+individuals at the state can simply repay the loan through future direct taxes
+(through forcibly seizing taxpayers’ income) or through the implicit tax of
+monetary inflation (by printing more money).  footnote:[This is the technical
+definition of “inflation,” namely, an increase in the supply of money. This is
+a tax on those individuals who don’t get the new money first, since while the
+amount of goods available for purchase won’t have increased, these individuals’
+relative share of the money available to purchase those goods will have
+decreased.]
+
+Accordingly, the individuals at the state can borrow money for their pet
+projects ‒ which bring significant benefits to state personnel in terms of
+rewarding their cronies and other supporters ‒ and externalize the costs of
+those loans onto taxpayers. Thus there is significant over-production of state
+bond issuance.  footnote:[The U.S. federal government’s explicit outstanding
+debt currently stands at around $18 trillion, for a negative externality of
+around $57,000 per citizen. This excludes all the implicit promises to pay that
+the federal government has made through various welfare programs such as Social
+Security and Medicare, which are many times larger than this explicit debt.]
+
+As a final example of the state’s production of negative externalities,
+consider that there are unseen negative externalities that arise from the
+thousands of regulations that already exist and the new regulations that are
+implemented by the state each year.
+
+It is impossible for the average citizen to be knowledgeable about the vast
+majority of these regulations, many of which are vague and thus subject to
+expansive interpretation, are at odds with local custom, and have nothing to do
+with protecting private property rights (in fact, most of them violate private
+property rights). It is likely that each of us is violating some regulation
+each day of our lives.  footnote:[The plethora of regulations leads to many
+absurdities. For instance, depositing more than $10,000 at a time triggers
+certain banking regulations based on the suspicion that this is evidence of
+criminal proceeds, but depositing less than $10,000 at a time triggers related
+regulations based on the suspicion that the depositor might be trying to avoid
+the $10,000 threshold. So every deposit is caught!] It is also impossible for
+the state to realistically enforce all or even most of these regulations
+against everyone who violates them. In addition, since no one knows in advance
+which new regulations will be passed each year – although everyone knows that
+there will be more – we live under a highly uncertain legal regime. Thus
+regulation and its enforcement are seen as incomprehensible and arbitrary
+instead of understandable and principled.
+
+
+
+As a result, there is a complete loss of respect for “the law,” which has
+significant negative cultural implications for society. This leads to a loss of
+respect for law makers and law enforcers, growth of “grey” and “black” markets,
+increased conflict in society as people see themselves racing with their fellow
+citizens to try to get regulations written and enforced in their favor, and
+increased opportunities for official corruption.
+
+Yet the statist never considers these negative externalities when arguing for
+the state. And because these negative externalities from regulations are not
+factored in, we get massive over-production of regulations.

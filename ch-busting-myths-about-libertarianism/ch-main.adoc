@@ -1,0 +1,33 @@
+= Busting the Myths About Libertarianism
+
+Statists are very quick to dismiss libertarianism, but few statists, if any,
+spend much time studying libertarian ideas in depth. It seems odd that, even
+when presented with the opportunity to take a fresh look at the question of the
+state versus the individual, a statist wouldn’t first explore libertarian ideas
+before reaching a definitive conclusion.  It’s almost as if the statist is
+afraid of what he might discover.
+
+Due to their lack of substantive knowledge about libertarianism, statists
+subscribe to a number of myths about this political philosophy. There is a very
+rich body of intellectual work that composes the libertarian philosophy and
+which can answer all of the usual questions statists pose but which, sadly, is
+mostly unexplored by statists.
+
+
+This section is not intended to be a treatise on how a libertarian world might
+operate. That could be the subject of an entire paper in and of itself and has
+been the subject of much intellectual writing in the libertarian sphere (a
+sample of which is contained in the <<reading-guide>> at the end of this paper).
+This section is merely intended to try to address some of the most common myths
+about libertarianism, and to whet the appetite of the intellectually curious
+reader who wants to learn more about how a libertarian society might function
+(in which case the books listed in the Reading Guide would be a good next
+step).
+
+include::./s-what-is-libertarianism.adoc[]
+
+include::./myth-libertarians-are-utopian.adoc[]
+
+include::./myth-its-every-man-for-himself.adoc[]
+
+include::./myth-libertarianism-eq-chaos.adoc[]
