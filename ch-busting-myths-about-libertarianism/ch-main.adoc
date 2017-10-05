@@ -31,3 +31,20 @@ include::./myth-libertarians-are-utopian.adoc[]
 include::./myth-its-every-man-for-himself.adoc[]
 
 include::./myth-libertarianism-eq-chaos.adoc[]
+
+include::./myth-wed-be-defenseless.adoc[]
+
+include::./myth-there-goes-the-environment.adoc[]
+
+include::./myth-somalia-disproves-the-case-for-libertarianism.adoc[]
+
+include::./myth-libertarians-are-shills-for-the-powerful.adoc[]
+
+include::./myth-libertarians-dont-care-about-the-poor.adoc[]
+
+include::./myth-libertarians-are-pro-prostitution-and-pro-narcotics.adoc[]
+
+include::./myth-if-its-so-good-why-hasnt-it-ever-been-tried.adoc[]
+
+include::./myth-libertarianism-is-a-futile-endeavor.adoc[]
+

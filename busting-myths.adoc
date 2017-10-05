@@ -4,7 +4,6 @@ v1.0, 2017-05
 :doctype: book
 :toc:
 :hide-uri-scheme:
-:sectnums:
 :sectlinks:
 :sectanchors:
 :icons: font
@@ -21,6 +20,8 @@ include::./ch-the-free-market/ch-main.adoc[]
 include::./ch-myths-justifying-the-need-for-the-state/ch-main.adoc[]
 
 include::./ch-busting-myths-about-libertarianism/ch-main.adoc[]
+
+include::./ch-why-does-it-matter/ch-main.adoc[]
 
 include::./ch-conclusion/ch-main.adoc[]
 

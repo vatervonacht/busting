@@ -1,0 +1,10 @@
+= Why Does It Matter?
+
+Why is it even worth discussing libertarianism vs. statism? What is the point
+of debating political philosophies?
+
+include::./s-minimizing-conflict-within-society.adoc[]
+
+include::./s-opposing-war.adoc[]
+
+include::./s-governing-by-principle-not-arbitrarily.adoc[]
