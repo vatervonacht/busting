@@ -1,5 +1,5 @@
 :sectnums!:
-[[reading-guide]]
+[#reading-guide]
 = Reading Guide
 
 I have set out below (in publication date order) a list of the books I have

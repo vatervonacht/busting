@@ -20,7 +20,7 @@ operations, the state would be able to levy taxes on its citizens.
 At this point a number of rather obvious objections to this line of thinking
 should be jumping out of the page.
 
-*First* , it’s important to recall that “the state” is not an entity that can
+*First*, it’s important to recall that “the state” is not an entity that can
 actually act by itself; only individuals can act.  Thus “the state” is just a
 codeword for a select group of individuals.
 

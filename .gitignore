@@ -1,1 +1,14 @@
 *.html
+output
+.DS_Store
+.*.swp
+
+# build artifacts
+Gemfile.lock
+busting-myths.html
+busting-myths.pdf
+busting-myths.pdfmarks
+busting-myths.epub
+busting-myths-kf8.epub
+busting-myths.mobi
+

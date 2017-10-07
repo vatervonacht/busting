@@ -65,14 +65,14 @@ election. This argument has a number of components that deserve scrutiny.
 *First*, voting is a false choice: you are choosing between being coerced by
 politician A or politician B. There is no choice not to be coerced.
 
-*Second* , whether you vote for politician A or against politician A, or you
+*Second*, whether you vote for politician A or against politician A, or you
 don’t vote at all, if politician A is elected then he gets to coerce you. In
 what way is that a valid choice? In every other area of our lives we make real
 decisions between competing products, and we may choose not to purchase
 anything in any particular instance, but no vendor can force you to buy his
 product.
 
-*Third* , what does it mean to be “represented by” a politician? He does not
+*Third*, what does it mean to be “represented by” a politician? He does not
 know you, you do not know him, neither person signs a document agreeing to the
 specific terms of representation, he cannot be held to account or fired by you
 if he breaches those terms and, by virtue of representing thousands of very

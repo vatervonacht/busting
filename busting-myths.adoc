@@ -1,30 +1,34 @@
 = Busting Myths About the State and the Libertarian Alternative
 Zach Rofer
-v1.0, 2017-05
+v1.0, May 2015
 :doctype: book
+:docinfo:
 :toc:
-:hide-uri-scheme:
-:sectlinks:
-:sectanchors:
-:icons: font
+ifdef::backend-html5[:toc: right]
+:toclevels: 2
+:pagenums:
 ifndef::ebook-format[:leveloffset: 1]
+//:hide-uri-scheme:
+//:sectlinks:
+//:sectanchors:
+//:icons: font
 
-include::./preface.adoc[]
+include::preface.adoc[]
 
-include::./ch-the-statists-view/ch-main.adoc[]
+include::ch-the-statists-view.adoc[]
 
-include::./ch-myths-about-the-nature-of-the-state/ch-main.adoc[]
+include::ch-myths-about-the-nature-of-the-state.adoc[]
 
-include::./ch-the-free-market/ch-main.adoc[]
+include::ch-the-free-market.adoc[]
 
-include::./ch-myths-justifying-the-need-for-the-state/ch-main.adoc[]
+include::ch-myths-justifying-the-need-for-the-state.adoc[]
 
-include::./ch-busting-myths-about-libertarianism/ch-main.adoc[]
+include::ch-busting-myths-about-libertarianism.adoc[]
 
-include::./ch-why-does-it-matter/ch-main.adoc[]
+include::ch-why-does-it-matter.adoc[]
 
-include::./ch-conclusion/ch-main.adoc[]
+include::ch-conclusion.adoc[]
 
-include::./afterword.adoc[]
+include::afterword.adoc[]
 
-include::./reading-guide.adoc[]
+include::reading-guide.adoc[]

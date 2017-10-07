@@ -1,5 +1,0 @@
-= The Statist's View
-
-include::s-people.adoc[]
-
-include::s-economics.adoc[]

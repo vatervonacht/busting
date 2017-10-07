@@ -1,0 +1,13 @@
+[#ch-why-it-matters]
+= Why Does It Matter?
+
+Why is it even worth discussing libertarianism vs. statism? What is the point
+of debating political philosophies?
+
+:folder: ./ch-why-does-it-matter
+
+include::{folder}/s-minimizing-conflict-within-society.adoc[]
+
+include::{folder}/s-opposing-war.adoc[]
+
+include::{folder}/s-governing-by-principle-not-arbitrarily.adoc[]

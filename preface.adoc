@@ -1,4 +1,5 @@
 [preface]
+[#preface]
 = Preface
 
 In non-technical terms, the libertarian is simply someone who is against
@@ -93,7 +94,7 @@ trying to persuade them.]
 
 Finally, there are some upfront stylistic points I should make.
 
-**First** , since in this paper I am contrasting those who support the notion
+**First**, since in this paper I am contrasting those who support the notion
 of a state with those who don’t, I will be using “libertarian” to mean only
 someone who argues for a completely stateless society (as I do), also known as
 an “anarcho-capitalist,” “voluntarist,” “libertarian anarchist” or
@@ -113,13 +114,13 @@ using the word “some.” One purpose of this paper is to lay out the
 precepts of statist thinking, not the thoughts of every, or any
 particular, statist.
 
-**Third** , I have avoided citing too many specific sources in an effort to
+**Third**, I have avoided citing too many specific sources in an effort to
 try to create a more conversational tone.  Instead, I have included a
 Reading Guide at the end which references much of the source material
 that provided me with the foundations to write this paper. That said, all
 errors of course are mine alone.
 
-**Fourth** , I would encourage you to read the footnotes, which generally
+**Fourth**, I would encourage you to read the footnotes, which generally
 contain additional substantive material or examples, as opposed to just dry
 source references. Sometimes that’s where I have my most
 fun! 

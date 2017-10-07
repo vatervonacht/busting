@@ -1,0 +1,14 @@
+[#ch-free-market]
+= The Free Market
+
+:folder: ./ch-the-free-market
+
+include::{folder}/s-what-is-the-free-market.adoc[]
+
+include::{folder}/s-economics.adoc[]
+
+include::{folder}/s-austrian-economics.adoc[]
+
+include::{folder}/myth-the-free-market-creates-an-inequality-problem.adoc[]
+
+include::{folder}/myth-the-free-market-exploits-workers.adoc[]

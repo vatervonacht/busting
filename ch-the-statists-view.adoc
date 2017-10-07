@@ -1,0 +1,7 @@
+[#ch-statist]
+= The Statist's View
+:folder: ./ch-the-statists-view
+
+include::{folder}/s-people.adoc[]
+
+include::{folder}/s-economics.adoc[]
