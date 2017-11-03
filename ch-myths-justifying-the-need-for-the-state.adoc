@@ -17,15 +17,21 @@ when it is both illogical and immoral to support the state.]
 
 :folder: ./ch-myths-justifying-the-need-for-the-state
 
+<<<
 include::{folder}/s-acquiescence-to-the-state.adoc[]
 
+<<<
 include::{folder}/myth-the-state-is-an-improvement-on-the-free-market.adoc[]
 
+<<<
 include::{folder}/myth-we-need-the-state-to-provide-public-goods.adoc[]
 
+<<<
 include::{folder}/myth-we-need-the-state-to-deal-with-negative-externalities.adoc[]
 
+<<<
 include::{folder}/myth-we-need-the-state-to-deal-with-anti-competitive-behavior.adoc[]
 
+<<<
 include::{folder}/myth-the-hobbesian-fear.adoc[]
 

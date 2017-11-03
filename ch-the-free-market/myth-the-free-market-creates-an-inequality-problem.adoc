@@ -397,7 +397,7 @@ benefits of the state’s coercive powers, my competitors will.”
 Efforts to regulate crony capitalism out of existence have always failed, and
 will always fail, because they attack the symptom, not the cause.
 
-[centered]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 The implication of the statist myth that the free market creates an inequality
 problem is that the state is able to provide an appropriate solution. However,

@@ -344,7 +344,7 @@ Apparently honor is reserved only for those state personnel who proactively
 kill foreigners and destroy their property, and who get paid through
 confiscation of taxpayers’ income.
 
-[centered]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 Winston Churchill is reputed to have once noted “It has been said that
 democracy is the worst form of government except all the others that have been

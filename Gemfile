@@ -14,3 +14,9 @@ gem 'pygments.rb'
 gem 'thread_safe'
 gem 'epubcheck'
 gem 'kindlegen'
+
+group :development do
+    gem 'guard'
+    gem 'guard-shell'
+    gem 'guard-livereload'
+end

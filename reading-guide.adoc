@@ -15,7 +15,7 @@ Guido Hülsmann, Stephan Kinsella, Peter Klein, Ryan McMaken, Bob Murphy, James
 Otteson, Lew Rockwell, Murray Rothbard, Joe Salerno, Thomas Sowell, John
 Stossel, Mark Thornton, Walter Williams and Tom Woods.
 
-centered:[* * * * *]
+image::{s-img}[{s-width}, align='center']
 
 [%hardbreaks]
 _The Law_ by Frederic Bastiat (1850)

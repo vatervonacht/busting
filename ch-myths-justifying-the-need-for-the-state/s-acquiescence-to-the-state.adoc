@@ -29,7 +29,7 @@ a small fraction of the overall population. If the population as the host were
 to rise up in a coordinated fashion to rid itself of the state parasite, state
 personnel would be powerless to stop this. This has occurred historically
 through successful revolutions, the most famous of which are the French and
-American Revolutions of the late 18 th century.
+American Revolutions of the late 18^th^ century.
 
 Accordingly, to try to prevent such revolutionary action the modern state uses
 three different means to ensure the population’s acquiescence.
@@ -149,7 +149,7 @@ In this sense it is no coincidence that the growth of the state has been
 greatest in modern times in parallel with the growth of democracy and broader
 voting rights among populations.
 
-[centered]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 Fear-based acquiescence and participation-based acquiescence are mostly immune
 to rational debate; one can understand the issues with the state but still

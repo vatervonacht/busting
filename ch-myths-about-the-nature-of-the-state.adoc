@@ -3,14 +3,20 @@
 
 :folder: ./ch-myths-about-the-nature-of-the-state
 
+<<<
 include::{folder}/myth-the-state-is-a-moral-actor.adoc[]
 
+<<<
 include::{folder}/myth-the-state-acts-by-consent.adoc[]
 
+<<<
 include::{folder}/myth-the-state-acts-for-the-common-good.adoc[]
 
+<<<
 include::{folder}/myth-the-state-and-its-personnel-deserve-our-support.adoc[]
 
+<<<
 include::{folder}/myth-democracy-is-good-better-best.adoc[]
 
+<<<
 include::{folder}/myth-the-state-dispenses-criminal-justice.adoc[]

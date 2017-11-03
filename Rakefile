@@ -5,17 +5,14 @@ namespace :book do
     `bundle exec asciidoctor busting-myths.adoc`
     puts " -- HTML output at busting-myths.html"
 
+    puts "Converting to DocBook..."
+    `bundle exec asciidoctor -d book -b docbook5 busting-myths.adoc -o busting-myths.docbook`
+    puts " -- DocBook output at busting-myths.docbook"
+
     puts "Converting to EPub..."
-    `bundle exec asciidoctor-epub3 busting-myths.adoc`
-    puts " -- Epub output at busting-myths.epub"
+    `pandoc -f docbook -t epub busting-myths.docbook -o busting-myths.epub`
+    puts " -- DocBook output at busting-myths.docbook"
 
-    puts "Converting to Mobi (kf8)..."
-    `bundle exec asciidoctor-epub3 -a ebook-format=kf8 busting-myths.adoc`
-    puts " -- Mobi output at busting-myths.mobi"
-
-    puts "Converting to PDF... (this one takes a while)"
-    `bundle exec asciidoctor-pdf busting-myths.adoc 2>/dev/null`
-    puts " -- PDF output at busting-myths.pdf"
   end
 end
 

@@ -146,7 +146,7 @@ force) or is an “all against all” principle that can only lead to ultimate
 societal degradation. Accordingly, I would argue that it is statism, as opposed
 to libertarianism, that is not a workable moral philosophy.
 
-[centered]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 To the extent that the statist is aware of the NAP he often misunderstands its
 implication. One major criticism levied by statists is that believing in the

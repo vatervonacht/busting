@@ -224,7 +224,7 @@ this implies you have “consented,” at most this can only imply consent to th
 provision of the specific benefit in question. Why should it also imply consent
 to the whole state infrastructure and every single act performed by the state?
 
-[centered]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 When faced with the above arguments, statists often fall back to the question
 “Well, how would anything get done if we didn’t have a state?” That is a

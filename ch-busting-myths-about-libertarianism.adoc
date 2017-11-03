@@ -27,27 +27,39 @@ step).
 
 :folder: ./ch-busting-myths-about-libertarianism
 
+<<<
 include::{folder}/s-what-is-libertarianism.adoc[]
 
+<<<
 include::{folder}/myth-libertarians-are-utopian.adoc[]
 
+<<<
 include::{folder}/myth-its-every-man-for-himself.adoc[]
 
+<<<
 include::{folder}/myth-libertarianism-eq-chaos.adoc[]
 
+<<<
 include::{folder}/myth-wed-be-defenseless.adoc[]
 
+<<<
 include::{folder}/myth-there-goes-the-environment.adoc[]
 
+<<<
 include::{folder}/myth-somalia-disproves-the-case-for-libertarianism.adoc[]
 
+<<<
 include::{folder}/myth-libertarians-are-shills-for-the-powerful.adoc[]
 
+<<<
 include::{folder}/myth-libertarians-dont-care-about-the-poor.adoc[]
 
+<<<
 include::{folder}/myth-libertarians-are-pro-prostitution-and-pro-narcotics.adoc[]
 
+<<<
 include::{folder}/myth-if-its-so-good-why-hasnt-it-ever-been-tried.adoc[]
 
+<<<
 include::{folder}/myth-libertarianism-is-a-futile-endeavor.adoc[]
 

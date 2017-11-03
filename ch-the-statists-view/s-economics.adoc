@@ -103,7 +103,7 @@ footnote:[There are many other similar observations to make about statist
 economics, but that is beyond the scope of this paper. I will briefly contrast
 statist economics with free market (“Austrian”) economics later in this paper.]
 
-[center]#* * * * *#
+image::{s-img}[{s-width}, align='center']
 
 The statist’s views on personnel and economics articulated above are consistent
 themes that permeate the way the statist thinks about the wonders of the state

@@ -68,7 +68,8 @@ well-off, police and civilians, etc.
 
 Why should we live like this? We’re only harming ourselves.
 
-* * * * *
+[.text-center]
+image:{s-img}[{s-width}, align='center']
 
 To return to the original question – Why does it matter? – it matters because
 we should all want the most peaceful society we can attain. To attain a more

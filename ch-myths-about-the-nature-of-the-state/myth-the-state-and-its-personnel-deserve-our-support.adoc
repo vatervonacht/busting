@@ -229,7 +229,7 @@ through purchase decisions, not answering surveys; the former has a real
 financial cost to the action, whereas the latter is costless to the
 respondent.]
 
-[centered]#* * * * *# 
+image::{s-img}[{s-width}, align='center']
 
 The question we need to ask when faced with human
 imperfection – whether lack of knowledge, incompetence or corruption – is
